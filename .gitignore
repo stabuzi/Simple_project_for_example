@@ -1,6 +1,5 @@
 .venv
 Local_notes.txt
+.mypy_cache
+.vscode
 __pycache__/
-
-
-

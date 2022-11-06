@@ -1,6 +1,4 @@
-from utils import helpers
-
-
+from calculator.utils import helpers
 
 
 class Calculator:
@@ -9,12 +7,8 @@ class Calculator:
         print("labas")
 
 
-
-
 def sum(a: int, b: int) -> int:
     return a + b
-    
-
 
 
 if __name__ == "__main__":
